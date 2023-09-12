@@ -3,6 +3,14 @@
 <h1>Welcome To Page</h1>
 </body>
 <body style="color:red;">
+</body>
+
+   <a href=" ">Home</a>
+   <a href=" ">Batchs</a>
+   <a href=" ">services</a>
+   <a href=" ">Course</a>
+   <a href=" ">ContactUs</a></br></br>
+
  <div class="container">
     <label for="uname"><b>Username:    </b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
@@ -11,11 +19,7 @@
     <input type="password" placeholder="Enter Password" name="psw" required>
 <br></br>
    <button type="submit">Login</button>
-   <a href=" ">Home</a>
-   <a href=" ">Batchs</a>
-   <a href=" ">services</a>
-   <a href=" ">Course</a>
-   <a href=" ">ContactUs</a>
+   
 <style>
   a:hover
   {
